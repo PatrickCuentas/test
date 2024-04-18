@@ -1,0 +1,12 @@
+{
+  "configurations": [
+    {
+      "name": "Flutter (iPhone 15 Pro)",
+      "program": "lib/main.dart",
+      "deviceId": "6F13CFD3-1160-4968-A674-B4AEC75BBCBF",
+      "request": "launch",
+      "type": "dart",
+			"args": ["--no-enable-impeller"]
+    }
+  ]
+}
